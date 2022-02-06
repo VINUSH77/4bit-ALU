@@ -11,7 +11,7 @@ Title:- **4 BIT ARITHMETIC AND LOGICAL UNIT**
 
 4.[Waveforms](https://github.com/VINUSH77/4bit-ALU/blob/main/README.md#simulation-results)
 
-5.[References](https://github.com/VINUSH77/4bit-ALU/blob/main/README.md#references)
+5.[References](https://github.com/VINUSH77/4bit-ALU/blob/main/README.md#references-)
 
 
 
@@ -111,8 +111,8 @@ F[ 3 : 0] – 1 1 1 1 Cout = ‘ 0 ‘
 ![result](https://user-images.githubusercontent.com/90974601/152670570-38385f96-3544-4136-ba98-c5eb62755027.jpeg)
 
 
-## #References
-**References:-**
+
+## **References:-**
 
 International Journal of Engineering Research & Technology
 (IJERT)ISSN: 2278-0181 IJERTV9IS070238
