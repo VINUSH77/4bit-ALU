@@ -46,18 +46,24 @@ A and B are the 4 bit word inputs ALU A3, A2, A1, A0 and B3, B2, B1, B0 are the 
 ![cd5](https://user-images.githubusercontent.com/90974601/152670210-e89ad1cc-ba3b-4efd-a935-43794f712975.jpeg)
 
 
+
 **Simulation Results:**
+
 
 ![sr](https://user-images.githubusercontent.com/90974601/152670319-050d6020-ff4c-43f8-afbd-43f1c4eee4b5.jpeg)
 
 
+
 **NGSPICE PLOTS:**
+
 
 
 ![ng](https://user-images.githubusercontent.com/90974601/152670340-608a2021-6d5e-4075-b344-0056ec1178f2.jpeg)
 
 
 ![ng2](https://user-images.githubusercontent.com/90974601/152670352-7ee6caf4-1bd6-472a-afe5-f4b738d9fec4.jpeg)
+
+
 
 
 **PYTHON PLOTS:**
@@ -80,12 +86,13 @@ F= A-B
 F[ 3 : 0] – 1 1 1 1 Cout = ‘ 0 ‘
 
 
+
 **Result:-**
 
 ![result](https://user-images.githubusercontent.com/90974601/152670570-38385f96-3544-4136-ba98-c5eb62755027.jpeg)
 
 
-References:-
+**References:-**
 
 International Journal of Engineering Research & Technology
 (IJERT)
