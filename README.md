@@ -76,3 +76,13 @@ PYTHON PLOTS:
 ![python2](https://user-images.githubusercontent.com/90974601/152670366-e4254d18-d578-4735-9abf-804a682996a6.jpeg)
 
 
+
+OUTPUT:
+
+when S2 = ‘ 0 ‘ -- v9 = 0v
+            S1 = ‘ 1 ‘ -- v10 = 5 v 
+           S0 = ‘ 0 ‘ -- v11 = 0v 
+           Cin = ‘ 1 ‘ -- v12 = 5 v
+operation performed is SUB
+F= A-B
+F[ 3 : 0] – 1 1 1 1 Cout = ‘ 0 ‘
