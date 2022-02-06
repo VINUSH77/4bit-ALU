@@ -9,6 +9,9 @@ so that the entire registers transfer operation from the source register through
 
 Arithmetic Unit:-
                 The arithmetic operations in the table can be implemented in one composite arithmetic circuit. The basic component of an arithmetic circuit is a fulladder. By controlling the data input to the adder it is possible to obtain different types of arithmetic operations. The diagram of the 4-bit arithmetic circuit is shown in figure. It has four full adder circuits that constitute the 4-bit adder and 4 multiplexers for choosing multiple operations. There are two 4bit inputs A and B and 4-bit output D.
+                
+                
+                
 
 Logic Unit:-
                  Logic micro operations specify binary operations for strings of bits stored in registers. These operations consider each bit of registers separately and treat them as       
