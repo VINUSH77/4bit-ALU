@@ -50,7 +50,26 @@ Circuit diagram:
 Simulation Results:
 
 
+![sr](https://user-images.githubusercontent.com/90974601/152670319-050d6020-ff4c-43f8-afbd-43f1c4eee4b5.jpeg)
 
 
+NGSPICE PLOTS:
+
+
+![ng](https://user-images.githubusercontent.com/90974601/152670340-608a2021-6d5e-4075-b344-0056ec1178f2.jpeg)
+
+
+
+![ng2](https://user-images.githubusercontent.com/90974601/152670352-7ee6caf4-1bd6-472a-afe5-f4b738d9fec4.jpeg)
+
+
+PYTHON PLOTS:
+
+
+![python](https://user-images.githubusercontent.com/90974601/152670357-ad59a8c3-5521-48ec-bb36-ccf8d6972235.jpeg)
+
+
+
+![python2](https://user-images.githubusercontent.com/90974601/152670366-e4254d18-d578-4735-9abf-804a682996a6.jpeg)
 
 
