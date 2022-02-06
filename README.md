@@ -1,5 +1,5 @@
 # 4bit-ALU
-4 BIT ARITHMETIC AND LOGICAL UNIT
+Title:-  4 BIT ARITHMETIC AND LOGICAL UNIT
 
 
 Theory:-
@@ -30,7 +30,7 @@ A and B are the 4 bit word inputs ALU A3, A2, A1, A0 and B3, B2, B1, B0 are the 
 
 
 
-Circuit diagram:
+Circuit diagram:-
 
 
 
@@ -86,3 +86,7 @@ when S2 = ‘ 0 ‘ -- v9 = 0v
 operation performed is SUB
 F= A-B
 F[ 3 : 0] – 1 1 1 1 Cout = ‘ 0 ‘
+
+
+Result:-
+
