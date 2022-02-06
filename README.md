@@ -90,3 +90,14 @@ F[ 3 : 0] – 1 1 1 1 Cout = ‘ 0 ‘
 
 Result:-
 
+![result](https://user-images.githubusercontent.com/90974601/152670570-38385f96-3544-4136-ba98-c5eb62755027.jpeg)
+
+
+References:-
+
+International Journal of Engineering Research & Technology
+(IJERT)
+http://www.ijert.org ISSN: 2278-0181 IJERTV9IS070238
+(This work is licensed under a Creative Commons Attribution
+4.0 International License.)
+
