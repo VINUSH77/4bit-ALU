@@ -7,11 +7,11 @@ Title:- **4 BIT ARITHMETIC AND LOGICAL UNIT**
 
 2.[Circuit Details]()
 
-3.[Circuit Design])()
+3.[Circuit Design]()
 
 4.[Waveforms]()
 
-5.[References](References/README.md)
+5.[References]()
 
 
 
