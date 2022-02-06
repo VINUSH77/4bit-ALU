@@ -1,5 +1,5 @@
 # 4bit-ALU
-Title:-  4 BIT ARITHMETIC AND LOGICAL UNIT
+Title:- ** 4 BIT ARITHMETIC AND LOGICAL UNIT**
 
 
 Theory:-
