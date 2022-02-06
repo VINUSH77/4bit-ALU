@@ -47,6 +47,8 @@ Circuit diagram:
 
 
 
+Simulation Results:
+
 
 
 
