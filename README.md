@@ -1,5 +1,7 @@
 # 4bit-ALU
 4 BIT ARITHMETIC AND LOGICAL UNIT
+
+
 Theory:-
                 Arithmetic Logic Unit is a common operational unit with a number of storage registers connected to it, using which it performs microoperations. To perform a micro operation, of the common ALU. The ALU performs an operation and the result of the operation is then transferred to a destination register. The ALU is a combinational circuit  
 so that the entire registers transfer operation from the source register through the ALU and the destination register can be performed during one clock pulse period.                  
