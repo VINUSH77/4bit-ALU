@@ -3,15 +3,15 @@ Title:- **4 BIT ARITHMETIC AND LOGICAL UNIT**
 
 **This Repository Present the Design of a 4-bit ALU**
 
-1.[Abstract](#References)
+1.[Abstract]()
 
-2.Circuit Details
+2.[Circuit Details]()
 
-3.Circuit Design
+3.[Circuit Design])()
 
-4.Waveforms
+4.[Waveforms]()
 
-5.References
+5.[References]()
 
 
 
