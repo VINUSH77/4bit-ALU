@@ -20,4 +20,6 @@ Logic Unit:-
                  Logic micro operations specify binary operations for strings of bits stored in registers. These operations consider each bit of registers separately and treat them as       
 binary variables. Figure-2 shows one stage of a circuit that generates the four basic logic micro-operations. It consists of 4 gates and a multiplexer each of the four logic operations is generated through a gate that performs the required logic. The outputs of the gates are applied to the data inputs of the multiplexer. The two selection inputs S1 and S2 choose one of the data inputs of the multiplexers and direct it values to the output. The figure shows one typical stage of the logical unit.
 A and B are the 4 bit word inputs ALU A3, A2, A1, A0 and B3, B2, B1, B0 are the bits. A3 and B3 are the MSBs. S2, S1, S0 are the selection inputs. S2 selects the arithmetic operation for ‘0’ and logic operation for ‘1’. S1, S0 are used to select various operations in arithmetic and logic blocks. Cin is the input carried to the arithmetic circuit. f3,f2,f1,f0 are the output bits . Cout is the output carry.
+
+
 ![logic](https://user-images.githubusercontent.com/90974601/152670041-31c5f78a-14c4-4ab8-9791-666fe4c5e2fc.jpeg)
