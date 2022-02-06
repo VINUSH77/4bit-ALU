@@ -3,15 +3,15 @@ Title:- **4 BIT ARITHMETIC AND LOGICAL UNIT**
 
 **This Repository Present the Design of a 4-bit ALU**
 
-1.[Abstract](https://github.com/VINUSH77/4bit-ALU/main/README.md#abstract-)
+1.[Abstract](https://github.com/VINUSH77/4bit-ALU/blob/main/README.md#abstract-)
 
-2.[Circuit Details](https://github.com/VINUSH77/4bit-ALU/main/README.md#arithmetic-unit-)
+2.[Circuit Details](https://github.com/VINUSH77/4bit-ALU/blob/main/README.md#arithmetic-unit-)
 
-3.[Circuit Design](https://github.com/VINUSH77/4bit-ALU/main/README.md#circuit-diagram-)
+3.[Circuit Design](https://github.com/VINUSH77/4bit-ALU/blob/main/README.md#circuit-diagram-)
 
-4.[Waveforms](https://github.com/VINUSH77/4bit-ALU/main/README.md#simulation-results)
+4.[Waveforms](https://github.com/VINUSH77/4bit-ALU/blob/main/README.md#simulation-results)
 
-5.[References](https://github.com/VINUSH77/4bit-ALU/main/README.md#references)
+5.[References](https://github.com/VINUSH77/4bit-ALU/blob/main/README.md#references)
 
 
 
