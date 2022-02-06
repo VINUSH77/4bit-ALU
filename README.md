@@ -11,7 +11,7 @@ Title:- **4 BIT ARITHMETIC AND LOGICAL UNIT**
 
 4.[Waveforms]()
 
-5.[References](https://github.com/VINUSH77/4bit-ALU/blob/main/README.md#References)
+5.[References](https://github.com/VINUSH77/4bit-ALU#References)
 
 
 
