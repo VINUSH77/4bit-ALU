@@ -23,3 +23,15 @@ A and B are the 4 bit word inputs ALU A3, A2, A1, A0 and B3, B2, B1, B0 are the 
 
 
 ![logic](https://user-images.githubusercontent.com/90974601/152670041-31c5f78a-14c4-4ab8-9791-666fe4c5e2fc.jpeg)
+
+
+
+
+Circuit diagram:
+
+
+
+
+
+
+
