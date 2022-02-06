@@ -112,7 +112,7 @@ F[ 3 : 0] – 1 1 1 1 Cout = ‘ 0 ‘
 ![result](https://user-images.githubusercontent.com/90974601/152670570-38385f96-3544-4136-ba98-c5eb62755027.jpeg)
 
 
-#References
+##References
 **References:-**
 
 International Journal of Engineering Research & Technology
