@@ -31,6 +31,23 @@ Circuit diagram:
 
 
 
+![cd1](https://user-images.githubusercontent.com/90974601/152670176-32f4745b-ed5e-456c-98e9-94a9b76236c9.jpeg)
+
+
+![cd2](https://user-images.githubusercontent.com/90974601/152670187-cf4451e5-903b-4093-b23a-c269bd3b3e6e.jpeg)
+
+
+![cd3](https://user-images.githubusercontent.com/90974601/152670198-153df4f2-4555-4a5f-98a3-f44c7a53adec.jpeg)
+
+
+![cd4](https://user-images.githubusercontent.com/90974601/152670203-406f3268-54cc-4534-a535-c0e5d94ce008.jpeg)
+
+
+![cd5](https://user-images.githubusercontent.com/90974601/152670210-e89ad1cc-ba3b-4efd-a935-43794f712975.jpeg)
+
+
+
+
 
 
 
