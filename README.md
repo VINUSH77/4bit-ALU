@@ -2,7 +2,9 @@
 4 BIT ARITHMETIC AND LOGICAL UNIT
 Theory:-
                 Arithmetic Logic Unit is a common operational unit with a number of storage registers connected to it, using which it performs microoperations. To perform a micro operation, of the common ALU. The ALU performs an operation and the result of the operation is then transferred to a destination register. The ALU is a combinational circuit  
-so that the entire registers transfer operation from the source register through the ALU and the destination register can be performed during one clock pulse period.                                                                                                                                              
+so that the entire registers transfer operation from the source register through the ALU and the destination register can be performed during one clock pulse period.                  
+
+
 
 Arithmetic Unit:-
                 The arithmetic operations in the table can be implemented in one composite arithmetic circuit. The basic component of an arithmetic circuit is a fulladder. By controlling the data input to the adder it is possible to obtain different types of arithmetic operations. The diagram of the 4-bit arithmetic circuit is shown in figure. It has four full adder circuits that constitute the 4-bit adder and 4 multiplexers for choosing multiple operations. There are two 4bit inputs A and B and 4-bit output D.
