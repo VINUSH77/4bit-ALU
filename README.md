@@ -78,11 +78,17 @@ A and B are the 4 bit word inputs ALU A3, A2, A1, A0 and B3, B2, B1, B0 are the 
 **OUTPUT:**
 
 when S2 = ‘ 0 ‘ -- v9 = 0v
-            S1 = ‘ 1 ‘ -- v10 = 5 v 
+
+           S1 = ‘ 1 ‘ -- v10 = 5 v 
+           
            S0 = ‘ 0 ‘ -- v11 = 0v 
+           
            Cin = ‘ 1 ‘ -- v12 = 5 v
+           
 operation performed is SUB
+
 F= A-B
+
 F[ 3 : 0] – 1 1 1 1 Cout = ‘ 0 ‘
 
 
