@@ -3,20 +3,20 @@ Title:- **4 BIT ARITHMETIC AND LOGICAL UNIT**
 
 **This Repository Present the Design of a 4-bit ALU**
 
-1.[Abstract]()
+1.[Abstract](https://github.com/VINUSH77/4bit-ALU/edit/main/README.md#abstract-)
 
-2.[Circuit Details]()
+2.[Circuit Details](https://github.com/VINUSH77/4bit-ALU/edit/main/README.md#arithmetic-unit-)
 
-3.[Circuit Design]()
+3.[Circuit Design](https://github.com/VINUSH77/4bit-ALU/edit/main/README.md#circuit-diagram-)
 
-4.[Waveforms]()
+4.[Waveforms](https://github.com/VINUSH77/4bit-ALU/edit/main/README.md#simulation-results)
 
-5.[References](https://github.com/VINUSH77/4bit-ALU)
-
-
+5.[References](https://github.com/VINUSH77/4bit-ALU/edit/main/README.md#references)
 
 
-**Theory:-**
+
+
+## **Abstract:-**
 
    Arithmetic Logic Unit is a common operational unit with a number of storage registers connected to it, using which it performs microoperations. To perform a micro operation, of the common ALU. The ALU performs an operation and the result of the operation is then transferred to a destination register. The ALU is a combinational circuit  
 so that the entire registers transfer operation from the source register through the ALU and the destination register can be performed during one clock pulse period.                  
@@ -24,7 +24,7 @@ so that the entire registers transfer operation from the source register through
 
 
 
-**Arithmetic Unit:-**
+## **Arithmetic Unit:-**
 
    The arithmetic operations in the table can be implemented in one composite arithmetic circuit. The basic component of an arithmetic circuit is a fulladder. By controlling the data input to the adder it is possible to obtain different types of arithmetic operations. The diagram of the 4-bit arithmetic circuit is shown in figure. It has four full adder circuits that constitute the 4-bit adder and 4 multiplexers for choosing multiple operations. There are two 4bit inputs A and B and 4-bit output D.
 
@@ -32,7 +32,7 @@ so that the entire registers transfer operation from the source register through
 ![arithmetic](https://user-images.githubusercontent.com/90974601/152670019-457c8667-3b29-42bf-8c20-ba23f7c5de26.jpeg)
 
               
-**Logic Unit:-**
+## **Logic Unit:-**
 
    Logic micro operations specify binary operations for strings of bits stored in registers. These operations consider each bit of registers separately and treat them as
 binary variables. Figure-2 shows one stage of a circuit that generates the four basic logic micro-operations. It consists of 4 gates and a multiplexer each of the four logic operations is generated through a gate that performs the required logic. The outputs of the gates are applied to the data inputs of the multiplexer. The two selection inputs S1 and S2 choose one of the data inputs of the multiplexers and direct it values to the output. The figure shows one typical stage of the logical unit.A and B are the 4 bit word inputs ALU A3, A2, A1, A0 and B3, B2, B1, B0 are the bits. A3 and B3 are the MSBs. S2, S1, S0 are the selection inputs. S2 selects the arithmetic operation for ‘0’ and logic operation for ‘1’. S1, S0 are used to select various operations in arithmetic and logic blocks. Cin is the input carried to the arithmetic circuit. f3,f2,f1,f0 are the output bits . Cout is the output carry.
@@ -41,7 +41,7 @@ binary variables. Figure-2 shows one stage of a circuit that generates the four 
 ![logic](https://user-images.githubusercontent.com/90974601/152670041-31c5f78a-14c4-4ab8-9791-666fe4c5e2fc.jpeg)
 
 
-**Circuit diagram:-**
+## **Circuit diagram:-**
 
 
 ![cd1](https://user-images.githubusercontent.com/90974601/152670176-32f4745b-ed5e-456c-98e9-94a9b76236c9.jpeg)
@@ -60,14 +60,14 @@ binary variables. Figure-2 shows one stage of a circuit that generates the four 
 
 
 
-**Simulation Results:**
+## **Simulation Results:**
 
 
 ![sr](https://user-images.githubusercontent.com/90974601/152670319-050d6020-ff4c-43f8-afbd-43f1c4eee4b5.jpeg)
 
 
 
-**NGSPICE PLOTS:**
+## **NGSPICE PLOTS:**
 
 
 
@@ -79,7 +79,7 @@ binary variables. Figure-2 shows one stage of a circuit that generates the four 
 
 
 
-**PYTHON PLOTS:**
+## **PYTHON PLOTS:**
 
 
 ![python](https://user-images.githubusercontent.com/90974601/152670357-ad59a8c3-5521-48ec-bb36-ccf8d6972235.jpeg)
@@ -88,7 +88,7 @@ binary variables. Figure-2 shows one stage of a circuit that generates the four 
 ![python2](https://user-images.githubusercontent.com/90974601/152670366-e4254d18-d578-4735-9abf-804a682996a6.jpeg)
 
 
-**OUTPUT:**
+## **OUTPUT:**
 
 when S2 = ‘ 0 ‘ -- v9 = 0v
 
@@ -106,12 +106,12 @@ F[ 3 : 0] – 1 1 1 1 Cout = ‘ 0 ‘
 
 
 
-**Result:-**
+## **Result:-**
 
 ![result](https://user-images.githubusercontent.com/90974601/152670570-38385f96-3544-4136-ba98-c5eb62755027.jpeg)
 
 
-#References
+## #References
 **References:-**
 
 International Journal of Engineering Research & Technology
